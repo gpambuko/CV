@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Galih Pambuko"
 title_separator          : "-"
 name                     : &name "Galih Pambuko"
 description              : &description "personal description"
-url                      : https://gpambuko.github.io/CV # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://gpambuko.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gpambuko.github.io/CV"
 
