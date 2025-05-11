@@ -34,6 +34,7 @@ Work experience
 Skills
 ======
 * DNA Extraction
+* RNA Extraction
 * PCR
 * Electrophoresis
 * Primer Design
