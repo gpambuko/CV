@@ -38,6 +38,8 @@ Skills
 * PCR
 * Electrophoresis
 * Primer Design
+* Genotyping
+* RFLP
 * SCUBA Diving
   * Sub-skill 2.1
   * Sub-skill 2.2
