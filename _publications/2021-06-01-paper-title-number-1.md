@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2021-06-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-01
-venue: 'Journal 1'
+venue: 'Jurnal Ilmu Ternak Universitas Padjadjaran'
 slidesurl: #No Slides
 paperurl: 'https://jurnal.unpad.ac.id/jurnalilmuternak/article/download/33425/15846'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
