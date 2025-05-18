@@ -23,10 +23,10 @@ repository               : "https://gpambuko.github.io/CV"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Galih Pambuko"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Wonogiri"
   employer         : "Universitas Sebelas Maret"
   uri              : # URL
   email            : "galihpambuko@student.uns.ac.id" 
